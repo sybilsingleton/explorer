@@ -1,0 +1,17 @@
+{
+    "chain_name": "cosmos",
+    "api": ["https://dys-api.dysonprotocol.com","https://dys-api.dyson.lol"], 
+    "rpc": ["https://dys-tm.dysonprotocol.com","https://dys-tm.dyson.lol"],
+    "sdk_version": "v0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "dys",
+        "symbol": "DYS",
+        "exponent": "0",
+        "coingecko_id": "", 
+        "logo": ""
+    }],
+    "addr_prefix": "dys",
+    "logo": ""
+}
